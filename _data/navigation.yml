@@ -3,10 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects Blogs"
+  - title: "Projects"
     url: /talks/    
 
-  - title: "Code Blogs"
+  - title: "Code"
     url: /teaching/    
     
   - title: "Paper Reading"
