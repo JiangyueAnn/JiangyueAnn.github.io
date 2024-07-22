@@ -11,7 +11,7 @@ I am currently a Research Assistant in the Median Group at the Department of Com
 
 My main research interests lie in the area of deep reinforcement learning, specifically focusing on sparse reward problems and multi-goal reinforcement learning guided by large language models.
 
-[Email](anna.yanjiangyue@gmail.com)/[github](https://github.com/JiangyueAnn)/google scholar/[Blog](https://jiangyueann.github.io/year-archive/)
+[email](anna.yanjiangyue@gmail.com)/[github](https://github.com/JiangyueAnn)/google scholar/[blog](https://jiangyueann.github.io/year-archive/)
 
 Blog Updates
 ======
