@@ -15,7 +15,7 @@ Blog Updates
 ======
 Daily update some blogs, including but not limited to projects, code, paper, daily, etc.
 
-<! -- 
+/* 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -48,4 +48,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
--->
+*/ 
